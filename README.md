@@ -4,7 +4,7 @@
 ## I'm a Student, Developer!
 
 
-- 🔭 I’m currently working on my Master's Degree in Information Systems at  [<img  alt="" width="22px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
+- 🔭 I’m currently working on my Master's Degree in Information Systems at  [<img  alt="NWMSU" width="17px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
 - 🌱 I’m currently learning everything 🤣
 - 💼 I’m looking for Internship roles 
 - 🥅 2020 Goals: Contribute more to Open Source projects
