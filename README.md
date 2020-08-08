@@ -41,8 +41,8 @@
 
 ---
 
-
-<img align="left" alt="awansari's Github Stats" src="https://github-readme-stats.awansari.vercel.app/api?username=awansari&show_icons=true&hide_border=true" />
+[![Ansari's github stats](https://github-readme-stats.vercel.app/api?username=awansari&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awansari&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/AbdulWahedAnsar
