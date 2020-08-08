@@ -4,7 +4,7 @@
 ## I'm a Student, Developer!
 
 
-- 🔭 I’m currently working on my Master's Degree in Information Systems at [northwest]  [<img align="left" alt="" width="22px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />]
+- 🔭 I’m currently working on my Master's Degree in Information Systems at  [<img  alt="" width="22px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
 - 🌱 I’m currently learning everything 🤣
 - 💼 I’m looking for Internship roles 
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -14,7 +14,7 @@
 [<img align="left" alt="awansari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="awansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="awansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="awansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="awansari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br/>
 <br />
